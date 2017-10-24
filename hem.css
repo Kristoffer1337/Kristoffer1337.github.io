@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#333;
+	font-family:Tahoma;
+	font-size:12px;
+}
+#storbox{
+	background:#737373;
+	width:80%;
+	height:100%;
+	position:absolute;
+	margin-left:6%;
+}
+header{
+	background:#8C8C8C;
+	width:100%;
+	height:13%;
+}
+nav{
+	background:#616161;
+	width:100%;
+	height:15%;
+}
+article{
+	background:#959595;
+	width:65%;
+	height:78%;
+	clear:left;
+	line-height:20px;
+	font-family:"Times New Roman", Times, serif;
+	font-size:15px;
+	float:left;
+}
+
+aside{
+	background:#3E3F40;
+	width:35%;
+	height:78%;
+	float:left;
+}
+footer{
+	clear:left;
+	background-color:#616161;
+	width:100%;
+	height:12%;
+}
+ul{
+	text-align:center;
+	list-style:none;
+	padding:0;
+	margin:0;
+}
+li{
+	line-height:40px;
+	height: 100%;
+	width:24%;
+	float:left;
+}
+
